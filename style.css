@@ -82,3 +82,13 @@
     font-size: 1.5em;
   }
 }
+
+/* custom things */
+.ui.inverted.vertical.masthead.center.aligned.segment {
+  background-image: url(./assets/header.jpg);
+  background-size: 100% !important;
+}
+
+.ui.large.secondary.inverted.pointing.menu {
+    background-color: black;
+}
